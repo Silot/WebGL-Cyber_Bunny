@@ -16,3 +16,5 @@ npm i && npm i -g budo bankai browserify watchify \ uglify-js wsnc baudio
 budo bunny.js -- -t glslify
 
 DONE !
+
+demo image -> https://cloud.githubusercontent.com/assets/18450857/26696009/9cdd190e-4715-11e7-9bf2-c018ceb7a50d.png
